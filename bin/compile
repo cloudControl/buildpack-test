@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
-echo "Custom buildpack test - compile script"
-echo "Build dir: $1"
-echo "Cache dir: $2"
+echo "Foo branch - Custom buildpack test - compile script"
+echo "Foo branch - Build dir: $1"
+echo "Foo branch - Cache dir: $2"
